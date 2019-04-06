@@ -5,4 +5,4 @@ An elementary and responsive template using :-
 - CSS
 - Flexbox Grid
 
-![](file:///home/tushar/Pictures/screenshot.png)
+![](screenshot.png)
